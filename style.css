@@ -8,12 +8,13 @@ body {
     padding: 20px 20px 20px 20px;
     margin: 40px 20px 20px 20px ;
 }
+/*inicio titulo encabezado*/
 .tituloEn {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Shojumaru', cursive;
     font-size: 50px;
     text-align: center;
     text-shadow: 6px 3px 5px rgb(48, 10, 5);
-    color: rgb(105, 31, 31);
+    color: rgb(121, 33, 33);
     padding: 10px 0 10px 0;
 }
 .parrafo1 {
@@ -25,15 +26,21 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+/*fin titulo encabezado*/
+/*inicio primer titulo*/
 .titulo2 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 0 100px 0 100px;
     padding: 40px 20px 40px 20px;
     width: 500px;
-    height: 200px;
+    height: 250px;
     background-color: rgb(235, 223, 211);
     text-align: center;
-    /*falta centrar el contenido, contenido a la izquierda, corregir */
+}
+h2.primerH {
+    font-family: 'Handlee', cursive;
+}
+p.primerP {
+    font-family: 'Architects Daughter', cursive;
 }
 .subtitulos {
     border-radius: 0 100px 0 100px;
@@ -42,6 +49,7 @@ body {
     height: 230px;
     margin: 50px;
     background-color: rgb(212, 226, 205);
+    /*falta centrar el contenido, contenido a la izquierda, corregir */
 }
 h3.sub1 {
     /*font de google fonts*/
@@ -59,4 +67,44 @@ h3.sub2 {
 p.sub2Parrafo {
     font-family: 'Raleway', sans-serif;
     text-align: right;
+}
+/*fin primer titulo*/
+.titulo3 {
+    border-radius: 100px 0 100px 0;
+    padding: 40px 20px 40px 20px;
+    width: 500px;
+    height: 200px;
+    background-color: rgb(236, 222, 208);
+    text-align: center;
+}
+h2.segundoT {
+    font-family: 'Handlee', cursive;
+}
+p.segundoT {
+    font-family: 'Architects Daughter', cursive;
+}
+.subtitulos2 {
+    border-radius: 100px 0 100px 0;
+    padding: 40px 20px 50px 30px;
+    width: 600px;
+    height: 530px;
+    margin: 50px;
+    background-color: rgb(212, 226, 205);
+}
+/*se aplica misma clase para elementos diferentes*/
+h3.primerSub2 {
+    font-family: 'Lemonada', cursive;
+    text-align: right;
+}
+p.primerSub2 {
+    font-family: 'Bad Script', cursive;
+    text-align: right;
+}
+h3.segundoSub2 {
+    font-family: 'Lemonada', cursive;
+    text-align: left;
+}
+p.segundoSub2 {
+    font-family: 'Bad Script', cursive;
+    text-align: left;
 }
