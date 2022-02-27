@@ -108,3 +108,10 @@ p.segundoSub2 {
     font-family: 'Bad Script', cursive;
     text-align: left;
 }
+h2.conclusion {
+    font-family: 'Handlee', cursive;
+}
+p.conclusion {
+    font-family: 'Handlee', cursive;
+    background: linear-gradient(240deg, cadetBlue, lightSteelBlue);
+}
