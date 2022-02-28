@@ -30,9 +30,7 @@ body {
 /*inicio primer titulo*/
 .titulo2 {
     border-radius: 0 100px 0 100px;
-    padding: 40px 20px 40px 20px;
-    width: 500px;
-    height: 250px;
+    padding: 40px 20px 40px 20px;    
     background-color: rgb(235, 223, 211);
     text-align: center;
 }
@@ -44,9 +42,7 @@ p.primerP {
 }
 .subtitulos {
     border-radius: 0 100px 0 100px;
-    padding: 40px 20px 50px 30px;
-    width: 500px;
-    height: 230px;
+    padding: 40px 20px 50px 30px;   
     margin: 50px;
     background-color: rgb(212, 226, 205);
     /*falta centrar el contenido, contenido a la izquierda, corregir */
@@ -71,9 +67,7 @@ p.sub2Parrafo {
 /*fin primer titulo*/
 .titulo3 {
     border-radius: 100px 0 100px 0;
-    padding: 40px 20px 40px 20px;
-    width: 500px;
-    height: 200px;
+    padding: 40px 20px 40px 20px;    
     background-color: rgb(236, 222, 208);
     text-align: center;
 }
@@ -86,8 +80,6 @@ p.segundoT {
 .subtitulos2 {
     border-radius: 100px 0 100px 0;
     padding: 40px 20px 50px 30px;
-    width: 600px;
-    height: 530px;
     margin: 50px;
     background-color: rgb(212, 226, 205);
 }
@@ -110,6 +102,7 @@ p.segundoSub2 {
 }
 h2.conclusion {
     font-family: 'Handlee', cursive;
+    text-align: center;
 }
 p.conclusion {
     font-family: 'Handlee', cursive;
