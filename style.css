@@ -115,3 +115,10 @@ p.conclusion {
     font-family: 'Handlee', cursive;
     background: linear-gradient(240deg, cadetBlue, lightSteelBlue);
 }
+/*uso de span en los parrafos*/
+.resaltarSub1 {
+    background-color: #6be092;
+}
+.resaltarSub2 {
+    background-color: #86df8d;
+}
