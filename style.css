@@ -107,6 +107,7 @@ h2.conclusion {
 p.conclusion {
     font-family: 'Handlee', cursive;
     background: linear-gradient(240deg, cadetBlue, lightSteelBlue);
+    padding: 10px 20px 20px 10px;
 }
 /*uso de span en los parrafos*/
 .resaltarSub1 {
