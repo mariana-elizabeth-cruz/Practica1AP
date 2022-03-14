@@ -1,6 +1,8 @@
 body {
     background: linear-gradient(90deg, sandyBrown, saddleBrown);
 }
+
+
 .encabezados {
     border-radius: 10px;
     background-color: rgb(211, 185, 154);
